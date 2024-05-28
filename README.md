@@ -1,4 +1,17 @@
-# Hello there 👋
+### Hi there 👋, my name is Matwey
+#### I am a student
+![I am a student](https://ytcovers.ru/wp-content/uploads/2016/01/youtube-gaming-bg.jpg)
+
+I want to become a sought-after programmer
+
+Skills: PYTHON / CPP
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
