@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.yapx.cc/Mw7aT.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Matwey, I am a student. -_-</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- I dont working, ha ha  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning C++ and Python  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ I dont now everything  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -61,13 +61,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/MEGALINUXER" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/ТЫЖПРОГРАММИСТ" target="_blank">
+<a href="https://stackoverflow.com/users/https://ru.stackoverflow.com/users/580253/ТЫЖПРОГРАММИСТ" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
